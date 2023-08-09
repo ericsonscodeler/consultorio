@@ -4,10 +4,8 @@ Rodar a aplicação
 
 ```bash
 npm run dev
-# or
+ou
 yarn dev
-# or
-pnpm dev
 ```
 
 Rodar o JSON server
