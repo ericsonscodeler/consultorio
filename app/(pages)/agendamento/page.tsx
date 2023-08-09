@@ -99,6 +99,7 @@ const Agendamento = () => {
             <ContainerCard
               key={doctor.id}
               onClick={() => setSelectedDoctor(doctor.id)}
+              style={{ cursor: 'pointer' }}
             >
               <img
                 src={doctor.img}

@@ -1,3 +1,5 @@
+'use client'
+
 import { getWeekDays } from '@/app/utils/get-week-days'
 import { useEffect, useMemo, useState } from 'react'
 import dayjs from 'dayjs'
